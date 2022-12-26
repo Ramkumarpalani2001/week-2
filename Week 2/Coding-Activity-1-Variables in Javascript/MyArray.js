@@ -1,0 +1,1 @@
+var animals=["cat", "Dog" , "Cow", "Rabit"];
